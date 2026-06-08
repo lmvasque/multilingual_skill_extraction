@@ -21,7 +21,7 @@ This README instead acts as a single entry point to the **publications** and the
 
 ### Skill Extraction from Resumes and Job Offers across Six Languages
 
-[📄 Paper](https://publications.idiap.ch/publications/show/5859) · accepted at the
+📄 [Paper](https://publications.idiap.ch/publications/show/5859) · accepted at the
 [11th Swiss Text Analytics Conference (SwissText), 2026](https://www.swisstext.org/call-for-papers/).
 
 > **TL;DR** — We comprehensively evaluate rule-based, semantic, and supervised skill-extraction
@@ -32,7 +32,7 @@ This README instead acts as a single entry point to the **publications** and the
 
 ### Soft Skills in the Wild: Challenges in Multilingual Classification
 
-[📄 Paper](https://publications.idiap.ch/publications/show/5592) · accepted at the
+📄 [Paper](https://publications.idiap.ch/publications/show/5592) · accepted at the
 [10th Swiss Text Analytics Conference (SwissText), 2025](https://www.swisstext.org/archive/swisstext-2025/).
 
 
